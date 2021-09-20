@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Swap logo" src="https://github.com/eltonlazzarin/reactjs-uniswap-interface-clone/blob/main/readmeAssets/swapCoins.svg" height="67px" width="71px" />
+	<img alt="Swap logo" src="https://github.com/eltonlazzarin/reactjs-uniswap-clone-interface/blob/main/readmeAssets/swapCoins.svg" height="67px" width="71px" />
 </h1>
 
 <h3 align="center">
@@ -7,15 +7,15 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/reactjs-uniswap-interface-clone">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/reactjs-uniswap-clone-interface">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/reactjs-uniswap-interface-clone">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/reactjs-uniswap-clone-interface">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/reactjs-uniswap-interface-clone">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/reactjs-uniswap-clone-interface">
 
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/reactjs-uniswap-interface-clone">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/reactjs-uniswap-clone-interface">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/reactjs-uniswap-interface-clone">
+  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/reactjs-uniswap-clone-interface">
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 ## 👨🏻‍💻 About the project
 
 <p align="center">
-  <img src="https://github.com/eltonlazzarin/reactjs-uniswap-interface-clone/blob/main/readmeAssets/uniswapCloneInterface.gif">
+  <img src="https://github.com/eltonlazzarin/reactjs-uniswap-clone-interface/blob/main/readmeAssets/uniswapCloneInterface.gif">
 </p>
 
 <p>This project was developed with ReactJS, being a Dapp application (decentralized application) that replicates the Uniswap web application interface. With this interface it is possible to perform the real login connection with your MetaMask digital wallet previously installed in your browser.
@@ -58,9 +58,9 @@ Technologies that I used to develop this frontend app
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/eltonlazzarin/reactjs-uniswap-interface-clone.git
+$ git clone https://github.com/eltonlazzarin/reactjs-uniswap-clone-interface.git
 
-$ cd reactjs-uniswap-interface-clone
+$ cd reactjs-uniswap-clone-interface
 ```
 
 **Follow the steps below**
@@ -79,7 +79,7 @@ $ yarn start
 
 ```bash
 # Clone your fork
-$ git clone https://github.com/eltonlazzarin/reactjs-uniswap-interface-clone.git
+$ git clone https://github.com/eltonlazzarin/reactjs-uniswap-clone-interface.git
 
 # Create a branch with your feature
 $ git checkout -b your-feature
@@ -95,4 +95,4 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/reactjs-uniswap-interface-clone/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/reactjs-uniswap-clone-interface/blob/master/LICENSE) for more information.
