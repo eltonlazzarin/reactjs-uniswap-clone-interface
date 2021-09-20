@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Uniswap Clone Interface
+  Uniswap Interface Clone
 </h3>
 
 <p align="center">
