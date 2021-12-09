@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
 	<img alt="Swap logo" src="https://github.com/eltonlazzarin/reactjs-uniswap-clone-interface/blob/main/readmeAssets/swapCoins.svg" height="67px" width="71px" />
 </h1>
 
